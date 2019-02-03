@@ -49,5 +49,4 @@ else //użytkownik niezalogowany
 </div>
 <?php
 include "footer.php";
-echo 'test';
 ?>
